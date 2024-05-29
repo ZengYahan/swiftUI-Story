@@ -25,7 +25,7 @@ struct Page2_1: View {
                     .padding(.horizontal,10)
                 
                 NavigationLink {
-                    Page1_1()
+                    Page3_1()
                 } label: {
                     Text("離開村莊，去外面的世界冒險")
                         .padding(.horizontal,20)

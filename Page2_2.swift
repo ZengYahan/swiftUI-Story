@@ -13,7 +13,7 @@ struct Page2_2: View {
             Color(red: 220/255, green: 175/255, blue: 147/255)
                 .ignoresSafeArea()
             VStack {
-                Image("1-2")
+                Image("2-2")
                     .resizable()
                     .frame(width: 393,height: 391)
                 Spacer()
